@@ -1,0 +1,14 @@
+D:\Projects\bisWorkflow\bisWorkflow\Domain\bin\Debug\Domain.dll
+D:\Projects\bisWorkflow\bisWorkflow\Domain\bin\Debug\Domain.pdb
+D:\Projects\bisWorkflow\bisWorkflow\Domain\bin\Debug\Shared.dll
+D:\Projects\bisWorkflow\bisWorkflow\Domain\bin\Debug\Shared.pdb
+D:\Projects\bisWorkflow\bisWorkflow\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\Projects\bisWorkflow\bisWorkflow\Domain\obj\Debug\Domain.dll
+D:\Projects\bisWorkflow\bisWorkflow\Domain\obj\Debug\Domain.pdb
+D:\git\bisWorkflow\Domain\bin\Debug\Domain.dll
+D:\git\bisWorkflow\Domain\bin\Debug\Domain.pdb
+D:\git\bisWorkflow\Domain\bin\Debug\Shared.dll
+D:\git\bisWorkflow\Domain\bin\Debug\Shared.pdb
+D:\git\bisWorkflow\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+D:\git\bisWorkflow\Domain\obj\Debug\Domain.dll
+D:\git\bisWorkflow\Domain\obj\Debug\Domain.pdb

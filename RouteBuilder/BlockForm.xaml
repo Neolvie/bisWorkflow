@@ -1,0 +1,19 @@
+﻿<Window x:Class="RouteBuilder.BlockForm"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:RouteBuilder"
+        mc:Ignorable="d"
+        WindowStartupLocation="CenterOwner"
+        DataContext="{Binding RelativeSource={RelativeSource Self}}"
+        Title="BlockForm" Height="300" Width="300">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <ComboBox Grid.Row="0" Name="BlockTypeComboBox" SelectedValue="{Binding SelectedBlockType, Mode=TwoWay}"/>
+        <Button Grid.Row="1" Name="SaveButton" Content="Сохранить" Click="SaveButton_OnClick"/>
+    </Grid>
+</Window>
